@@ -1,0 +1,169 @@
+C:\Users\aluno\Desktop\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.Resources.resources
+C:\Users\aluno\Desktop\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.exe.config
+C:\Users\aluno\Desktop\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.exe
+C:\Users\aluno\Desktop\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.pdb
+C:\Users\aluno\Desktop\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.xml
+C:\Users\aluno\Desktop\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_login.resources
+C:\Users\aluno\Desktop\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.exe
+C:\Users\aluno\Desktop\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.xml
+C:\Users\aluno\Desktop\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.pdb
+C:\Users\aluno\Desktop\Padaria Bons Sonhos\obj\Debug\Interop.ADODB.dll
+C:\Users\aluno\Desktop\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.ResolveComReference.cache
+C:\Users\aluno\Desktop\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_atendente.resources
+C:\Users\aluno\Desktop\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_relatorios.resources
+C:\Users\aluno\Desktop\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_gerenciar_contas.resources
+C:\Users\aluno\Desktop\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_menu.resources
+C:\Users\aluno\Desktop\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_caixa.resources
+D:\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.exe.config
+D:\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.exe
+D:\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.pdb
+D:\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.xml
+D:\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.AssemblyReference.cache
+D:\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Interop.ADODB.dll
+D:\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.ResolveComReference.cache
+D:\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_login.resources
+D:\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_atendente.resources
+D:\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_caixa.resources
+D:\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_relatorios.resources
+D:\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_gerenciar_contas.resources
+D:\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_menu.resources
+D:\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.Resources.resources
+D:\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.GenerateResource.cache
+D:\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.CoreCompileInputs.cache
+D:\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.exe
+D:\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.xml
+D:\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.pdb
+C:\Users\Professor\Desktop\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.exe.config
+C:\Users\Professor\Desktop\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.exe
+C:\Users\Professor\Desktop\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.pdb
+C:\Users\Professor\Desktop\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.xml
+C:\Users\Professor\Desktop\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.AssemblyReference.cache
+C:\Users\Professor\Desktop\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Interop.ADODB.dll
+C:\Users\Professor\Desktop\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.ResolveComReference.cache
+C:\Users\Professor\Desktop\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_login.resources
+C:\Users\Professor\Desktop\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_atendente.resources
+C:\Users\Professor\Desktop\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_caixa.resources
+C:\Users\Professor\Desktop\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_relatorios.resources
+C:\Users\Professor\Desktop\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_gerenciar_contas.resources
+C:\Users\Professor\Desktop\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_menu.resources
+C:\Users\Professor\Desktop\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.Resources.resources
+C:\Users\Professor\Desktop\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.GenerateResource.cache
+C:\Users\Professor\Desktop\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.CoreCompileInputs.cache
+C:\Users\Professor\Desktop\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.exe
+C:\Users\Professor\Desktop\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.xml
+C:\Users\Professor\Desktop\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.pdb
+C:\Users\Professor\Desktop\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_relatorio.resources
+C:\Users\Professor\Desktop\2º Semestre\Sistemas de Informação\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_periodo.resources
+C:\Users\aluno\Desktop\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_periodo.resources
+C:\Users\aluno\Desktop\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_relatorio.resources
+D:\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.exe.config
+D:\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.exe
+D:\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.pdb
+D:\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.xml
+D:\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.AssemblyReference.cache
+D:\Padaria Bons Sonhos\obj\Debug\Interop.ADODB.dll
+D:\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.ResolveComReference.cache
+D:\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_login.resources
+D:\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_periodo.resources
+D:\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_relatorio.resources
+D:\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_atendente.resources
+D:\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_caixa.resources
+D:\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_relatorios.resources
+D:\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_gerenciar_contas.resources
+D:\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_menu.resources
+D:\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.Resources.resources
+D:\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.GenerateResource.cache
+D:\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.CoreCompileInputs.cache
+D:\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.exe
+D:\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.xml
+D:\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.pdb
+D:\20241S\Engenharia de Software I\ENGSOFTI-ADSMA2\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.exe.config
+D:\20241S\Engenharia de Software I\ENGSOFTI-ADSMA2\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.exe
+D:\20241S\Engenharia de Software I\ENGSOFTI-ADSMA2\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.pdb
+D:\20241S\Engenharia de Software I\ENGSOFTI-ADSMA2\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.xml
+D:\20241S\Engenharia de Software I\ENGSOFTI-ADSMA2\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.AssemblyReference.cache
+D:\20241S\Engenharia de Software I\ENGSOFTI-ADSMA2\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.SuggestedBindingRedirects.cache
+D:\20241S\Engenharia de Software I\ENGSOFTI-ADSMA2\Padaria Bons Sonhos\obj\Debug\Interop.ADODB.dll
+D:\20241S\Engenharia de Software I\ENGSOFTI-ADSMA2\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.ResolveComReference.cache
+D:\20241S\Engenharia de Software I\ENGSOFTI-ADSMA2\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_login.resources
+D:\20241S\Engenharia de Software I\ENGSOFTI-ADSMA2\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_periodo.resources
+D:\20241S\Engenharia de Software I\ENGSOFTI-ADSMA2\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_relatorio.resources
+D:\20241S\Engenharia de Software I\ENGSOFTI-ADSMA2\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_atendente.resources
+D:\20241S\Engenharia de Software I\ENGSOFTI-ADSMA2\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_caixa.resources
+D:\20241S\Engenharia de Software I\ENGSOFTI-ADSMA2\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_relatorios.resources
+D:\20241S\Engenharia de Software I\ENGSOFTI-ADSMA2\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_gerenciar_contas.resources
+D:\20241S\Engenharia de Software I\ENGSOFTI-ADSMA2\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_menu.resources
+D:\20241S\Engenharia de Software I\ENGSOFTI-ADSMA2\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.Resources.resources
+D:\20241S\Engenharia de Software I\ENGSOFTI-ADSMA2\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.GenerateResource.cache
+D:\20241S\Engenharia de Software I\ENGSOFTI-ADSMA2\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.CoreCompileInputs.cache
+D:\20241S\Engenharia de Software I\ENGSOFTI-ADSMA2\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.exe
+D:\20241S\Engenharia de Software I\ENGSOFTI-ADSMA2\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.xml
+D:\20241S\Engenharia de Software I\ENGSOFTI-ADSMA2\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.pdb
+C:\Users\Professor\Desktop\sucesso\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.exe.config
+C:\Users\Professor\Desktop\sucesso\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.exe
+C:\Users\Professor\Desktop\sucesso\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.pdb
+C:\Users\Professor\Desktop\sucesso\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.xml
+C:\Users\Professor\Desktop\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.AssemblyReference.cache
+C:\Users\Professor\Desktop\sucesso\Padaria Bons Sonhos\obj\Debug\Interop.ADODB.dll
+C:\Users\Professor\Desktop\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.ResolveComReference.cache
+C:\Users\Professor\Desktop\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_login.resources
+C:\Users\Professor\Desktop\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_periodo.resources
+C:\Users\Professor\Desktop\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_relatorio.resources
+C:\Users\Professor\Desktop\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_atendente.resources
+C:\Users\Professor\Desktop\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_caixa.resources
+C:\Users\Professor\Desktop\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_relatorios.resources
+C:\Users\Professor\Desktop\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_gerenciar_contas.resources
+C:\Users\Professor\Desktop\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_menu.resources
+C:\Users\Professor\Desktop\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.Resources.resources
+C:\Users\Professor\Desktop\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.GenerateResource.cache
+C:\Users\Professor\Desktop\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.CoreCompileInputs.cache
+C:\Users\Professor\Desktop\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.exe
+C:\Users\Professor\Desktop\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.xml
+C:\Users\Professor\Desktop\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.pdb
+D:\sucesso\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.exe.config
+D:\sucesso\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.exe
+D:\sucesso\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.pdb
+D:\sucesso\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.xml
+D:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.AssemblyReference.cache
+D:\sucesso\Padaria Bons Sonhos\obj\Debug\Interop.ADODB.dll
+D:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.ResolveComReference.cache
+D:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_login.resources
+D:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_periodo.resources
+D:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_relatorio.resources
+D:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_atendente.resources
+D:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_caixa.resources
+D:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_relatorios.resources
+D:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_gerenciar_contas.resources
+D:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_menu.resources
+D:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.Resources.resources
+D:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.GenerateResource.cache
+D:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.CoreCompileInputs.cache
+D:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.exe
+D:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.xml
+D:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.pdb
+E:\sucesso\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.exe.config
+E:\sucesso\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.exe
+E:\sucesso\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.pdb
+E:\sucesso\Padaria Bons Sonhos\bin\Debug\Padaria Bons Sonhos.xml
+E:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.AssemblyReference.cache
+E:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.SuggestedBindingRedirects.cache
+E:\sucesso\Padaria Bons Sonhos\obj\Debug\Interop.ADODB.dll
+E:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.ResolveComReference.cache
+E:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_login.resources
+E:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_periodo.resources
+E:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_relatorio.resources
+E:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_atendente.resources
+E:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_caixa.resources
+E:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_relatorios.resources
+E:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_gerenciar_contas.resources
+E:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.frm_menu.resources
+E:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria_Bons_Sonhos.Resources.resources
+E:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.GenerateResource.cache
+E:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.vbproj.CoreCompileInputs.cache
+E:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.exe
+E:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.xml
+E:\sucesso\Padaria Bons Sonhos\obj\Debug\Padaria Bons Sonhos.pdb
